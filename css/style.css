@@ -1,20 +1,20 @@
 /************************** Tag Selectors ***************************/
 body{
     background-color: #EAF6F6;
-    margin: 0mm;
+    margin: 0;
     text-align: center;
 }
 h1{
     color: #66BFBF;
     font-family: 'Kaushan Script', cursive;
-    font-size: 80px;
+    font-size: 5rem;
     line-height: 0;
     margin-top: 2.5rem;
 }
 
 hr{
     border-style: dotted none none;
-    border-width: 10px;
+    border-width: 0.625rem;
     color: #d6e0f0;
     width: 10%;
 }
@@ -25,7 +25,7 @@ h2{
 h3{
     color:#66BFBF;
 }
-/************************** Class Selectors ***************************/
+/************************** Class Selectors **************************/
 
 .pro{
     text-decoration: underline;
@@ -35,9 +35,9 @@ h3{
     position: absolute;
 }
 .top-cloud{
-    left: 290px;
+    left: 18.125rem;
     position: relative;
-    top: 10px;
+    top: 0.625rem;
 }
 
 .top{
@@ -47,7 +47,7 @@ h3{
     font-family: 'Caveat', cursive;
     font-size: 2rem;
     font-weight: normal;
-    line-height: 50px;
+    line-height: 3.125rem;
 }
 .skill-row{
     margin-top: 2rem;
