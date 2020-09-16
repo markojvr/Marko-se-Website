@@ -1,0 +1,67 @@
+/************************** Tag Selectors ***************************/
+body{
+    background-color: #EAF6F6;
+    margin: 0mm;
+    text-align: center;
+}
+h1{
+    color: #66BFBF;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 80px;
+    line-height: 0;
+    margin-top: 2.5rem;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 10px;
+    color: #d6e0f0;
+    width: 10%;
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.0rem;
+}
+h3{
+    color:#66BFBF;
+}
+/************************** Class Selectors ***************************/
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    left: 290px;
+    position: relative;
+    top: 10px;
+}
+
+.top{
+    background-color: #cffffe;
+}
+.my-werk{
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 50px;
+}
+.skill-row{
+    margin-top: 2rem;
+    margin-right:  auto;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    width: 40%;
+}
+
+.fortnite{
+    color: blue;
+}
+.eerste-par{
+    margin: auto;
+    margin-bottom: 2rem;
+    width: 40%;
+}
